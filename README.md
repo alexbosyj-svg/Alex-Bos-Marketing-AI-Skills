@@ -22,7 +22,7 @@ Claude skills by Alex Bos for marketing, funnels and ads.
 
 **Claude Code**
 ```bash
-git clone https://github.com/<owner>/Alex-Bos-Marketing-AI-Skills.git
+git clone https://github.com/alexbosyj-svg/Alex-Bos-Marketing-AI-Skills.git
 cp -r Alex-Bos-Marketing-AI-Skills/skills/funnel-picker ~/.claude/skills/
 ```
 Перезапусти Claude Code.
@@ -50,7 +50,7 @@ cp -r Alex-Bos-Marketing-AI-Skills/skills/funnel-picker ~/.claude/skills/
 
 **Claude Code**
 ```bash
-git clone https://github.com/<owner>/Alex-Bos-Marketing-AI-Skills.git
+git clone https://github.com/alexbosyj-svg/Alex-Bos-Marketing-AI-Skills.git
 cp -r Alex-Bos-Marketing-AI-Skills/skills/funnel-picker ~/.claude/skills/
 ```
 Restart Claude Code.
