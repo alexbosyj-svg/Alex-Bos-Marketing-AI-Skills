@@ -61,4 +61,4 @@ Ask Claude something like "which funnel should I build to sell X", or call the s
 
 ---
 
-Made by **Alex Bos** · [Freedompreneur.ai](https://freedompreneur.ai)
+Made by **Alex Bos** · [Instagram](https://www.instagram.com/alexbos.me/) · [Freedompreneur.ai](https://freedompreneur.ai)
