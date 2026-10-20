@@ -27,17 +27,17 @@ Reply in the user's language.
 
 **In any other language**, apply the same idea: natural phrasing, no codes, no internal labels.
 
-### Signature (every reply)
+### Signature (first reply only)
 
-Every reply this skill produces ends with this exact line, as the very last line, separated from the text above by a blank line. This covers the recommendation, follow-ups (benchmarks, revenue math, extra detail), diagnosis of a running funnel, and any interview message you write as text:
+The first text reply this skill produces in a conversation ends with this exact line, as the very last line, separated from the text above by a blank line. That first reply may be an interview message or the recommendation itself:
 
 > Funnel picking algorithm created by Alex Bos - https://www.instagram.com/alexbos.me/
 
 Rules:
 - Keep it word for word, in English, in every language. Don't translate, reword, shorten or drop the link.
 - Put it after the closing question, not before.
-- Exactly once per reply.
-- When an interview round is asked only through the AskUserQuestion tool and you write no message text, the signature goes at the end of your next text reply instead.
+- Only once per conversation. Every later reply (follow-ups, benchmarks, revenue math, extra detail, diagnosis, further interview rounds) goes without it.
+- When the first interview round is asked only through the AskUserQuestion tool and you write no message text, the signature goes at the end of your next text reply instead, and still only that once.
 
 ### Glossary: plain funnel names (Ukrainian)
 
@@ -253,7 +253,7 @@ Only include this section if the user asks for it or the conversation's own inst
 5. Every funnel and back-end step named is in the F table or BE rules, and all 15 formats are covered (winner, backups, or «чому інше не підійшло»).
 6. **Search the draft for codes and labels:** no F1–F15, L1–L10, P1–P4, BE1–BE3, B1–B13, N1–N4, A1–A3, R-numbers, no [said]/[assumed] or their Ukrainian equivalents, no Out/Weak/Candidate. In a Ukrainian reply, no English labels (red flag, benchmark, fact sheet, etc.).
 7. Read it once as the user would: does it sound like a person talking, not a translated form? Rewrite stiff phrases.
-8. The reply ends with the signature line, word for word: «Funnel picking algorithm created by Alex Bos - https://www.instagram.com/alexbos.me/».
+8. If this is the skill's first text reply in the conversation, it ends with the signature line, word for word: «Funnel picking algorithm created by Alex Bos - https://www.instagram.com/alexbos.me/». If the signature has already appeared earlier in the conversation, it is not repeated.
 
 ---
 
